@@ -11,12 +11,11 @@ require (
 	github.com/containerd/ttrpc v1.0.2
 	github.com/containerd/typeurl v1.0.2
 	github.com/docker/distribution v2.7.1+incompatible // indirect
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.4.0
 	github.com/euank/go-kmsg-parser v2.0.0+incompatible
 	github.com/gogo/protobuf v1.3.2
-	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/karrick/godirwalk v1.16.1
 	github.com/mindprince/gonvml v0.0.0-20190828220739-9ebdce4bb989
 	github.com/mistifyio/go-zfs v2.1.2-0.20190413222219-f784269be439+incompatible
